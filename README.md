@@ -7,3 +7,5 @@ To install User Agent:
 ###   pip install Scrapy-User-Agent ###
 
 IF SCRIPT DON'T WORK PLEASE RELOAD YOUR COMMAND LINE
+
+Then run BestSellerBooks/books/books/main.py
